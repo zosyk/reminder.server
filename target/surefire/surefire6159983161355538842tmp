@@ -1,0 +1,6 @@
+#surefire
+#Wed Oct 26 22:13:25 EEST 2016
+user.dir=/home/alex/Desktop/intelij/login_reg_test/remindme.server
+idea.version=2016.2.5
+localRepository=/home/alex/.m2/repository
+basedir=/home/alex/Desktop/intelij/login_reg_test/remindme.server
